@@ -1,0 +1,15 @@
+/* completed component styles */
+
+.completed-card-head {
+  font-size: 1.75rem;
+}
+
+.no-completetd-todos-text {
+  font-size: 1.5rem;
+}
+
+.trash {
+  font-size: 1.275rem;
+  border: none;
+  background: none;
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@500;600&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Asap', sans-serif;
+}
+
+.bg-image {
+  background-image: url('assets/images/Posts-bg.png');
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: auto;
+}

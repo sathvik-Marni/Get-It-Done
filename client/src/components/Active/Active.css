@@ -1,0 +1,15 @@
+/* Active component styles */
+
+.active-card-head {
+  font-size: 1.75rem;
+}
+
+.no-active-todos-text {
+  font-size: 1.5rem;
+}
+
+.complete-trash {
+  font-size: 1.275rem;
+  border: none;
+  background: none;
+}

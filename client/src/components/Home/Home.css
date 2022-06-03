@@ -1,0 +1,9 @@
+/* Home component styles */
+
+.todo-card {
+  max-width: 50rem;
+}
+
+.input-height {
+  height: 2.5rem;
+}
